@@ -1,0 +1,57 @@
+#header  {
+   
+   background-image: url("../images/building.png");
+}
+
+.section1{
+	background-image: url("../images/building.png");
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+}
+#header h1{
+   font-family: Helvetica;
+   font-size: 70px;
+   font-weight: bold;
+   color: white;
+}
+
+a{
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+}
+h2{
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3{
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+p{
+	font-family: Helvetica;
+	font-size: 14px;
+}
+body{
+	text-align: center;
+
+}
+
+#footer{
+	text-align: left;
+	font-family: Helvetica;
+	color: white;
+	background-color: dimgray;
+	font-size: 18px;
+}
+
+
+.section2{
+	font-size: 11px;
+}
